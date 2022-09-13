@@ -9,3 +9,5 @@ mediaSend/*
 !mediaSend/.gitkeep
 !mediaSend/nota-de-voz.mp3
 .wwebjs_auth
+.env
+package-lock.json
